@@ -6,6 +6,6 @@ Here we propose to use deep-learning-based algorithms to learn the statistical p
 
 # About this repository 
 
-Once the manuscript ([link](https://arxiv.org/abs/2205.09182)) is accapted, we will upload the code to train the neural networks.
-For now, the code in this repository reproduces the plots from the manuscript. To run the jupyter notebook you need to download the data from [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6563858.svg)](https://doi.org/10.5281/zenodo.6563858)
-into a folder called 'data' where the jupyter notebook is located.
+This repository contains the code to train the neural network used in the manuscript ([link](https://arxiv.org/abs/2205.09182)). 
+ To reproduce the plots run the jupyter notebook with the data from [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6563858.svg)](https://doi.org/10.5281/zenodo.6563858)
+(the data needs to be in a folder called 'data' where the jupyter notebook is located).
